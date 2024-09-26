@@ -1,0 +1,322 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+body{
+    background-color: #0a1223;
+}
+h1{
+    margin: center;
+    padding: auto;
+}
+
+.nav_1{
+    padding-top: 15px;
+    padding-right: 4px;
+}
+
+.header{
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; */
+    margin: 0;
+    color: white;
+    /* padding-bottom: 550px; */
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    font-size: 35px;
+}
+.bottom_1 li{
+    list-style-type: none; 
+    padding: 0px 25px;
+
+
+}
+.bottom_1 a{
+    text-decoration: none; 
+    color: aqua;
+    background: linear-gradient(to right, #A0A0C0 0%, #808080 100%, #606060 100%); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+}
+.bottom_1 ul{
+    display: flex; 
+    align-items: normal; 
+    justify-content: right;
+}
+
+/* ############################################# */
+
+.nav_2{
+    width: 500px;
+    height: 300px;
+    color: white;
+    margin-left: 240px;
+}
+.nav_2 p{
+    text-align: justify;
+    color: #5d5d5d;
+}
+
+.nav_2 h3{
+    font-size: 30px;
+    background: linear-gradient(to right, #fff 0%, #0a1223 100%); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+}
+
+/* ############################################# */
+
+.nav_3{
+    width: 500px;
+    height: 300px;
+    color: white;
+    margin-left: 790px;
+}
+.nav_3 p{
+    text-align: justify;
+    color: #5d5d5d;
+}
+
+.nav_3 h4{
+    font-size: 30px;
+    background: linear-gradient(to right, #fff 0%, #0a1223 100%); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+}
+
+/* ############################################# */
+
+/* .nav_4{
+    width: 500px;
+    height: 300px;
+    color: white;
+    margin-left: 240px;
+}
+.nav_4 p{
+    text-align: justify;
+    color: #5d5d5d;
+}
+
+.nav_4 h4{
+    font-size: 30px;
+    background: linear-gradient(to right, #fff 0%, #0a1223 100%); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+} */
+
+/* ############################################# */
+
+/* .nav_5{
+    width: 500px;
+    height: 300px;
+    color: white;
+    margin-left: 790px;
+}
+.nav_5 p{
+    text-align: justify;
+    color: #5d5d5d;
+}
+
+.nav_5 h4{
+    font-size: 30px;
+    background: linear-gradient(to right, #fff 0%, #0a1223 100%); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+} */
+
+/* ############################################# */
+
+/* .nav_6{
+    width: 500px;
+    height: 300px;
+    color: white;
+    margin-left: 240px;
+}
+.nav_6 p{
+    text-align: justify;
+    color: #5d5d5d;
+}
+
+.nav_6 h4{
+    font-size: 30px;
+    background: linear-gradient(to right, #fff 0%, #0a1223 100%); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+} */
+
+/* ############################################# */
+
+/* .nav_7{
+    width: 500px;
+    height: 300px;
+    color: white;
+    margin-left: 790px;
+}
+.nav_7 p{
+    text-align: justify;
+    color: #5d5d5d;
+}
+
+.nav_7 h4{
+    font-size: 30px;
+    background: linear-gradient(to right, #fff 0%, #0a1223 100%); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+} */
+
+/* ############################################# */
+
+/* .nav_8{
+    width: 500px;
+    height: 300px;
+    color: white;
+    margin-left: 240px;
+}
+.nav_8 p{
+    text-align: justify;
+    color: #5d5d5d;
+}
+
+.nav_8 h4{
+    font-size: 30px;
+    background: linear-gradient(to right, #fff 0%, #0a1223 100%); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+} */
+
+/* ############################################# */
+
+/* .nav_9{
+    width: 500px;
+    height: 300px;
+    color: white;
+    margin-left: 790px;
+}
+.nav_9 p{
+    text-align: justify;
+    color: #5d5d5d;
+}
+
+.nav_9 h4{
+    font-size: 30px;
+    background: linear-gradient(to right, #fff 0%, #0a1223 100%); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+} */
+
+/* ############################################# */
+
+/* .nav_10{
+    width: 500px;
+    height: 300px;
+    color: white;
+    margin-left: 240px;
+}
+.nav_10 p{
+    text-align: justify;
+    color: #5d5d5d;
+}
+
+.nav_10 h4{
+    font-size: 30px;
+    background: linear-gradient(to right, #fff 0%, #0a1223 100%); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+} */
+
+/* ############################################# */
+
+/* .nav_11{
+    width: 500px;
+    height: 300px;
+    color: white;
+    margin-left: 790px;
+}
+.nav_11 p{
+    text-align: justify;
+    color: #5d5d5d;
+}
+
+.nav_11 h4{
+    font-size: 30px;
+    background: linear-gradient(to right, #fff 0%, #0a1223 100%); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+} */
+
+/* ############################################# */
+.image_1{
+
+    width: 450px; 
+    height: auto; 
+    margin-left: 550px;
+    margin-top: -190px;
+}
+
+.image_3{
+    width: 450px;
+    height: auto;
+    margin-left: -550px;
+    margin-top: -230px;
+} 
+
+/* .image_4{
+    width: 450px;
+    height: auto;
+    margin-left: 550px;
+    margin-top: -150px;
+}  */
+
+/* .image_5{
+    width: 450px;
+    height: auto;
+    margin-left: -550px;
+    margin-top: -210px;
+} 
+
+.image_6{
+    width: 450px;
+    height: auto;
+    margin-left: 550px;
+    margin-top: -200px;
+} 
+
+.image_7{
+    width: 450px;
+    height: auto;
+    margin-left: -550px;
+    margin-top: -150px;
+}  */
+/* 
+.image_8{
+    width: 450px;
+    height: auto;
+    margin-left: 550px;
+    margin-top: -200px;
+} 
+
+.image_9{
+    width: 450px;
+    height: auto;
+    margin-left: -550px;
+    margin-top: -170px;
+}  */
+
+/* .image_10{
+    width: 450px;
+    height: auto;
+    margin-left: 550px;
+    margin-top: -190px;
+} 
+
+.image_11{
+    width: 450px;
+    height: auto;
+    margin-left: -550px;
+    margin-top: -200px;
+}  */
