@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+
+body {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.photo_1{
+    /* background-image: url(images/Bitmap.jpg); */
+    width: 1512px;
+}
+
+.point{
+    margin-top: -450px;
+    margin-left: 700px;
+}
+
+.point_1{
+    width: 50px;
+    /* margin-top: -450px; */
+}
+.section_b{
+    background-color: black;
+    width: 700px;
+    height: 900px;
+}
+
+.text_1{
+    margin-top: -100px;
+    /* background-color: white; */
+}
+h1{
+    background-color: white;
+}
