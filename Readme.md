@@ -11,7 +11,7 @@ Lab_04
 https://mary1924.github.io/frontend_labs/lab_04/museum
 
 Lab_05
-https://mary1924.github.io/frontend_labs/lab_05/new.game
+https://mary1924.github.io/frontend_labs/lab_05/index
 
 Lab_06
 https://mary1924.github.io/frontend_labs/lab_06/mouse
