@@ -8,7 +8,7 @@ Lab_03
 https://mary1924.github.io/frontend_labs/lab_03/index2
 
 Lab_04
-https://mary1924.github.io/frontend_labs/lab_04/index
+https://mary1924.github.io/frontend_labs/lab_04/museum
 
 Lab_05
 https://mary1924.github.io/frontend_labs_05/index
