@@ -11,16 +11,16 @@ Lab_04
 https://mary1924.github.io/frontend_labs/lab_04/museum
 
 Lab_05
-https://mary1924.github.io/frontend_labs_05/index
+https://mary1924.github.io/frontend_labs_05/new.game
 
 Lab_06
-https://mary1924.github.io/frontend_labs_06/index
+https://mary1924.github.io/frontend_labs_06/mouse
 
 Lab_07
-https://mary1924.github.io/frontend_labs_07/index
+https://mary1924.github.io/frontend_labs_07/counter
 
 Lab_08
 https://mary1924.github.io/frontend_labs/lab_08/index
 
 Lab_09
-https://mary1924.github.io/frontend_labs_09/index
+https://mary1924.github.io/frontend_labs_09/pokeapi
