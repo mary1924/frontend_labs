@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", fetchPokemonList);
 
 async function fetchPokemonList() {
-    const url = `https://pokeapi.co/api/v2/pokemon?limit=20`; // Встановіть limit для кількості покемонів у списку
+    const url = `https://pokeapi.co/api/v2/pokemon?limit=20`; 
 
     try {
         const response = await fetch(url);
@@ -12,17 +12,36 @@ async function fetchPokemonList() {
 
         const data = await response.json();
 
-        // Виклик функції для відображення списку покемонів
+       
         displayPokemonList(data.results);
     } catch (error) {
         console.error(error);
         document.getElementById('pokemon-info').innerHTML = `<p class="error">Помилка: ${error.message}</p>`;
     }
 }
+async function fetchPokemonData(url) {
+
+    try {
+        const response = await fetch(url);
+
+        if (!response.ok) {
+            throw new Error('Не вдалося отримати список покемонів');
+        }
+
+        const data = await response.json();
+        console.log(data);
+        document.getElementById('info').innerHTML = `<img src="${data.sprites.back_default}"/>` + `<img src="${data.sprites.front_default}"/>`; 
+        document.getElementById('info2').innerHTML = `<img src="${data.sprites.back_shiny}"/>` + `<img src="${data.sprites.front_shiny}"/>`  ; 
+    } catch (error) {
+        console.error(error);
+        document.getElementById('info').innerHTML = `<p class="error">Помилка: ${error.message}</p>`;
+    }
+}
+
 
 function displayPokemonList(pokemonList) {
     const pokemonInfo = document.getElementById('pokemon-info');
-    pokemonInfo.innerHTML = ''; // Очищуємо попередній вміст
+    pokemonInfo.innerHTML = ''; 
 
     const ul = document.createElement('ul');
     ul.classList.add('pokemon-list');
@@ -31,6 +50,9 @@ function displayPokemonList(pokemonList) {
         const li = document.createElement('li');
         li.textContent = pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1);
         ul.appendChild(li);
+        li.addEventListener('click',()=>{
+            fetchPokemonData(pokemon.url)
+        });
     });
 
     pokemonInfo.appendChild(ul);
@@ -38,29 +60,3 @@ function displayPokemonList(pokemonList) {
 
 
 
-
-
-
-
-
-// async function fetchPokemon() {
-//     const pokemonName = document.getElementById('pokemon-name').value.toLowerCase();
-//     const url = `https://pokeapi.co/api/v2/pokemon`;
-
-//     try {
-//         const response = await fetch(url);
-
-//         if (!response.ok) {
-//             throw new Error('Покемона не знайдено');
-//         }
-
-//         const data = await response.json();
-//         console.log(data)
-//         for (let i=0; i<data.results.length; i++) {
-//             console.log(data.results[i].name)
-//         }
-//     } catch (error) {
-//         console.log(error)
-//         document.getElementById('pokemon-info').innerHTML = `<p class="error">Error ${error.message}</p>`;
-//     }
-// }
