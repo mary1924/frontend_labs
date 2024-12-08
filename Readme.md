@@ -1,5 +1,5 @@
-Lab_01
-https://mary1924.github.io/frontend_labs/lab_01/
+Lab_01_P01
+https://mary1924.github.io/frontend_labs/lab_01/P01_TheFutureOfCars/the-future-of-cars.html
 
 Lab_02 
 https://mary1924.github.io/frontend_labs/lab_02/index
