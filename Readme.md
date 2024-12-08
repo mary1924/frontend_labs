@@ -4,6 +4,9 @@ https://mary1924.github.io/frontend_labs/lab_01/P01_TheFutureOfCars/the-future-o
 Lab_01_P02
 https://mary1924.github.io/frontend_labs/lab_01/P02_FoodPage/food-page.html
 
+Lab_01_P03
+https://mary1924.github.io/frontend_labs/lab_01/P03_JapaneseKitchen/japanese-kitchen.html
+
 Lab_02 
 https://mary1924.github.io/frontend_labs/lab_02/index
 
