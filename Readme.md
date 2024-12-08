@@ -14,7 +14,7 @@ Lab_03
 https://mary1924.github.io/frontend_labs/lab_03/index
 
 Lab_04
-https://mary1924.github.io/frontend_labs/lab_04/museum
+https://mary1924.github.io/frontend_labs/lab_04/index
 
 Lab_05
 https://mary1924.github.io/frontend_labs/lab_05/index
