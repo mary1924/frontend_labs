@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url('./images/dark-wood.jpg');
+    background-image: url('images/dark-wood.jpg');
 
 }
 
@@ -12,7 +12,7 @@ body {
     width: 1300px;
     height: 180px;
     margin-left: 120px;
-    background-image: url('./images/header-page.jpg');
+    background-image: url('images/header-page.jpg');
     background-size: contain;
     background-position: left;
     background-repeat:no-repeat;
@@ -38,7 +38,7 @@ main {
 .nav_1 {
     margin-left: 120px;
     width: 1300px;
-    background-image: url('./images/header-page.jpg');
+    background-image: url('images/header-page.jpg');
     margin-top: 3px;
     margin-bottom: 3px;
     background-position: 100% -15%;
