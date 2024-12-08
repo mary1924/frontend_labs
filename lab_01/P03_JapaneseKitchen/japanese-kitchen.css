@@ -1,22 +1,22 @@
-
 * {
     margin: 0px;
     padding: 0px;
 }
 
-/* ============================================================================== */
 body {
-    background-image: url('/images/dark-wood.jpg');
+    background-image: url('./images/dark-wood.jpg');
 
 }
 
 .header_B {
     width: 1300px;
-    height: 200px;
-    margin-left: 250px;
-    background-image: url('/images/header-page.jpg');
+    height: 180px;
+    margin-left: 120px;
+    background-image: url('./images/header-page.jpg');
     background-size: contain;
     background-position: left;
+    background-repeat:no-repeat;
+    background-position: top;
 }
 
 .header_B h1 {
@@ -31,21 +31,26 @@ body {
 main {
     background-color: white;
     width: 1300px;
-    margin-left: 250px;
+    margin-left: 120px;
 }
 
 
 .nav_1 {
-    border: 2px solid black;
-    margin-top: 46px;
+    margin-left: 120px;
+    width: 1300px;
+    background-image: url('./images/header-page.jpg');
+    margin-top: 3px;
+    margin-bottom: 3px;
+    background-position: 100% -15%;
+
 }
 
 .nav_1 ul {
     display: flex;
     align-items: normal;
     justify-content: left;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 
 }
 
@@ -174,97 +179,3 @@ img {
     width: 400px;
     height: 240px;
 }
-
-
-/* * { */
-    /* margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Arial, sans-serif;
-}
-
-header{
-    background-image: url('./images/header-page.jpg'); 
-    background-size: cover; 
-    background-position: center;  */
-    /* height: 400px;*/
-    /* display: flex; 
-    justify-content: center;
-    align-items: center; */
-    /* width: 130%; */
-    /* height: 250px; */
-    /* margin-bottom: 1px; */
-/* }
-
-h1{
-    margin-left: 78%;
-    font-size: 40px;
-}
-
-ul{
-    background-image: url('./images/header-page.jpg'); */
-    /* text-transform: uppercase; */
-    /* text-align: left;
-    display: flex;
-    list-style: none;
-    padding: 10px;
-} */
-
-/* ul a{
-    text-decoration: none;
-    color: white;
-    margin: 50px;
-}
-
-figure img{
-    margin: 100px;
-    border: 1px  #ccc;
-    /* float: left;  */
-    /* width: 580px;
-    padding: 10px;
-  }
-
-div {
-    margin-left: 400px; */ 
-    /* float: left; */
-/* }
-p{
-    margin-left: 400px; */
-    /* margin-top: 300px; */
-/* }
-
-.popular-recipes{
-    /* width: 250px;
-    padding: 20px;
-    background-color: #fafafa;
-    border-right: 1px solid #ddd; */
-    /* background-color: #f3f3f3;
-    padding: 20px;
-    margin-left: 1000px;
-    background-image: none;
-    margin-top: -200px; */ 
-/* }
-.popular-recipes h2{
-    color: #d16c8b;
-    font-size: 24px;
-    margin-bottom: 20px;
-    font-weight: bold;
-}
-.popular-recipes ul {
-    /* list-style: none;
-    padding: 0; */
-    /* list-style-type: none;
-    padding: 0;
-} */ 
-/* .popular-recipes li{
-    margin-bottom: 10px;
-} */
-/* .popular-recipes ul li {
-    color: #d16c8b;
-    font-size: 18px;
-    padding: 10px 0;
-    border-bottom: 1px solid #eee;
-}
-.popular-recipes ul li:last-child {
-    border-bottom: none;
-} */
