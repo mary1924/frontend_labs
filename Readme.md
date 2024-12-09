@@ -16,16 +16,16 @@ https://mary1924.github.io/frontend_labs/lab_03/index
 Lab_04
 https://mary1924.github.io/frontend_labs/lab_04
 
-Lab_06
+Lab_07
 https://mary1924.github.io/frontend_labs/lab_05/index
 
 Lab_08
 https://mary1924.github.io/frontend_labs/lab_06/mouse
 
-Lab_07
+Lab_09
 https://mary1924.github.io/frontend_labs/lab_07/index
 
-Lab_08
+Lab_010
 https://mary1924.github.io/frontend_labs/lab_08/index
 
 Lab_12
