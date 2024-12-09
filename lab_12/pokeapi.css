@@ -44,3 +44,6 @@ body {
 .pokemon-list li:hover {
     background-color: #e0e0e0;
 }
+.m-10{
+    margin-top: 50px;
+}
