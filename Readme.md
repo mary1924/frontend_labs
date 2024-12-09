@@ -22,7 +22,7 @@ Lab_06
 https://mary1924.github.io/frontend_labs/lab_06
 
 Lab_07
-https://mary1924.github.io/frontend_labs/lab_05/index
+https://mary1924.github.io/frontend_labs/lab_07
 
 Lab_09
 https://mary1924.github.io/frontend_labs/lab_07/index
