@@ -1,5 +1,4 @@
-lab_01
-
+ lab_01
 cars-
 https://mary1924.github.io/frontend_labs/lab_01/%D1%81ars/index
 
