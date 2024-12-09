@@ -7,7 +7,7 @@ Food-
 https://mary1924.github.io/frontend_labs/lab_01/Food/index
 
 Kitchen-
-https://mary1924.github.io/frontend_labs/lab_01/P03_JapaneseKitchen/japanese-kitchen.html
+https://mary1924.github.io/frontend_labs/lab_01/Kitchen/index
 
 Lab_02 
 https://mary1924.github.io/frontend_labs/lab_02/index
