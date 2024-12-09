@@ -1,10 +1,10 @@
-Lab_01_P01
+Cars
 https://mary1924.github.io/frontend_labs/lab_01/P01_TheFutureOfCars/the-future-of-cars.html
 
-Lab_01_P02
+Food
 https://mary1924.github.io/frontend_labs/lab_01/P02_FoodPage/food-page.html
 
-Lab_01_P03
+Kitchen
 https://mary1924.github.io/frontend_labs/lab_01/P03_JapaneseKitchen/japanese-kitchen.html
 
 Lab_02 
