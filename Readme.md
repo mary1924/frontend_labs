@@ -4,7 +4,7 @@ Cars-
 https://mary1924.github.io/frontend_labs/lab_01/Cars/index
 
 Food-
-https://mary1924.github.io/frontend_labs/lab_01/P02_FoodPage/food-page.html
+https://mary1924.github.io/frontend_labs/lab_01/Food/index
 
 Kitchen-
 https://mary1924.github.io/frontend_labs/lab_01/P03_JapaneseKitchen/japanese-kitchen.html
