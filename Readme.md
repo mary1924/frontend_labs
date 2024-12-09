@@ -1,34 +1,34 @@
 Lab_01
 
-Cars-
+cars-
 https://mary1924.github.io/frontend_labs/lab_01/%D1%81ars/index
 
-Food-
+food-
 https://mary1924.github.io/frontend_labs/lab_01/food/index
 
-Kitchen-
+kitchen-
 https://mary1924.github.io/frontend_labs/lab_01/kitchen/index
 
-Lab_02 
+lab_02 
 https://mary1924.github.io/frontend_labs/lab_02/index
 
-Lab_03
+lab_03
 https://mary1924.github.io/frontend_labs/lab_03/index
 
-Lab_04
+lab_04
 https://mary1924.github.io/frontend_labs/lab_04
 
-Lab_06
+lab_06
 https://mary1924.github.io/frontend_labs/lab_06
 
-Lab_07
+lab_07
 https://mary1924.github.io/frontend_labs/lab_07
 
-Lab_09
+lab_09
 https://mary1924.github.io/frontend_labs/lab_09/index
 
-Lab_10
+lab_10
 https://mary1924.github.io/frontend_labs/lab_10/index
 
-Lab_12
+lab_12
 https://mary1924.github.io/frontend_labs/lab_12/index
