@@ -28,7 +28,7 @@ https://mary1924.github.io/frontend_labs/lab_06/mouse
 Lab_09
 https://mary1924.github.io/frontend_labs/lab_07/index
 
-Lab_010
+Lab_10
 https://mary1924.github.io/frontend_labs/lab_08/index
 
 Lab_12
