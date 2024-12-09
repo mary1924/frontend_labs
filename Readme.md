@@ -1,12 +1,11 @@
 Lab_01
-
-Cars
+Cars-
 https://mary1924.github.io/frontend_labs/lab_01/P01_TheFutureOfCars/the-future-of-cars.html
 
-Food
+Food-
 https://mary1924.github.io/frontend_labs/lab_01/P02_FoodPage/food-page.html
 
-Kitchen
+Kitchen-
 https://mary1924.github.io/frontend_labs/lab_01/P03_JapaneseKitchen/japanese-kitchen.html
 
 Lab_02 
