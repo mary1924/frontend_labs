@@ -6,22 +6,18 @@
     text-decoration: none;
 }
 li{
-    /*float: right;*/
     display: inline;
 }
 .l {
     position: relative;
 }
 .header {
-    background: url('./images/car-future.jpg');
+    background: url('images/car-future.jpg');
     background-size: cover;
     background-position: center;
     height: 500px;
     display: flex;
-    /*justify-content: center;
-    align-items:flex-start;*/
     color: #956d56;
-    /*text-align: center;*/
     width: 100%;
     text-transform: uppercase;
 }
