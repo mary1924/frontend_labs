@@ -106,17 +106,18 @@ header button:hover .left-button {
 header button:hover .right-button {
     background: #151515;
 }
-.museum_block{
-display: block;
+
+.museum_block {
+    display: block;
 }
 
-.photo_museum_2{
+.photo_museum_2 {
     margin-top: 63rem;
     width: 140%;
     margin-left: -18rem;
 }
 
-.text_f{
+.text_f {
     /* margin-left: -800px;
     margin-top: -320px; */
     font-size: 60px;
@@ -124,31 +125,33 @@ display: block;
     /* font-weight: 150px;  */
 }
 
-.div_f{
+.div_f {
     margin-left: -800px;
     margin-top: -320px;
 }
-.per_f{
-   font-size: 18px;
-   font-family: 'Courier New', Courier, monospace;
-} 
+
+.per_f {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
 
 .museum_block_2 {
     margin-top: 1390px;
     display: block;
 }
-.photo_museum_3{
+
+.photo_museum_3 {
     width: 650px;
     margin-left: -1235px;
     margin-top: 20px;
 }
 
-.photo_museum_4{
+.photo_museum_4 {
     width: 250px;
 }
 
-.black_section_2{
-   margin-top: 50px;
+.black_section_2 {
+    margin-top: 50px;
 }
 
 
@@ -156,23 +159,25 @@ display: block;
 
 
 
-.section_2{
+.section_2 {
     margin-top: -475px;
 }
 
-.photo_museum_4{
+.photo_museum_4 {
     width: 450px;
     margin-left: -555px;
-    margin-top: -267px;  
+    margin-top: -267px;
 }
-.black_section_3{
+
+.black_section_3 {
     background-color: black;
     width: 450px;
     height: 400px;
     margin-left: -555px;
     margin-top: 18px;
 }
-.text_4{
+
+.text_4 {
     margin-top: -330px;
     margin-left: -490px;
     color: white;
@@ -180,7 +185,8 @@ display: block;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 400px;
 }
-.per_4{
+
+.per_4 {
     margin-left: -490px;
     color: white;
     width: 290px;
@@ -195,29 +201,32 @@ display: block;
 
 
 
-.section_3{
+.section_3 {
     margin-top: 2300px;
     margin-left: -700px;
     display: inline;
 }
-.black_section_4{
+
+.black_section_4 {
     background-color: black;
     width: 1400px;
     height: 250px;
     margin-left: -550px;
 }
-.text_5{
+
+.text_5 {
     margin-top: -160px;
     margin-left: -280px;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 25px;
 }
-.per_5{
+
+.per_5 {
     color: white;
     margin-top: -65px;
     width: 420px;
     font-size: 16px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 5px;
-}
+}    
