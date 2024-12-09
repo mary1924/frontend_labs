@@ -10,8 +10,8 @@ cards.forEach((card, i) => {
     card.onclick = () => {
         if (card.textContent) return; 
         card.textContent = card.dataset.value; 
-console.log("card", card)
-console.log("openCard", openCard)
+// console.log("card", card)
+// console.log("openCard", openCard)
         if (!openCard) {
             openCard = card; 
         } else {
