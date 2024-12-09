@@ -28,7 +28,7 @@ Lab_09
 https://mary1924.github.io/frontend_labs/lab_09/index
 
 Lab_10
-https://mary1924.github.io/frontend_labs/lab_08/index
+https://mary1924.github.io/frontend_labs/lab_10/index
 
 Lab_12
 https://mary1924.github.io/frontend_labs/lab_09/index
