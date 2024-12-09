@@ -1,7 +1,7 @@
 Lab_01
 
 Cars-
-https://mary1924.github.io/frontend_labs/lab_1/Cars/index
+https://mary1924.github.io/frontend_labs/lab_01/Cars/index
 
 Food-
 https://mary1924.github.io/frontend_labs/lab_01/P02_FoodPage/food-page.html
