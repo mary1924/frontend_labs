@@ -4,12 +4,6 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
-/* .hero-content {
-    position: absolute;
-    top: 40%; 
-    left: 50%;
-    transform: translate(-50%, -50%); */
-
 header { 
     background-image: url("images/apples.jpg"); 
     background-size: cover; 
