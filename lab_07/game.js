@@ -13,6 +13,7 @@ const resetGame = () => {
 };
 
 const showRestart = () => document.getElementById("restartButton").style.display = "block";
+
 document.getElementById("guessButton").onclick = () => {
     let x = +document.getElementById("guessInput").value;
     if (x < 1 || x > 20) return alert("Guess a number between 1 and 20.");
