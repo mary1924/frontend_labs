@@ -30,4 +30,5 @@ document.getElementById("guessButton").onclick = () => {
     }
 };
 document.getElementById("restartButton").onclick = resetGame;
+
 updateUI();
