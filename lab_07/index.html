@@ -7,9 +7,14 @@
 </head>
 <body>
   <h1>Guess the Number</h1>
-  <p>Enter a number between 1 and 100:</p>
-  <input type="number" id="guessInput" min="1" max="100" />
+  <p>Enter a number between 1 and 20:</p>
+  <input type="number" id="guessInput" min="1" max="20" />
   <button id="guessButton">Submit</button>
+
+  <p id="status">Balance: $100</p>
+  <p id="remainingAttempts">Attempts left: 5</p>
+
+  <button id="restartButton" style="display: none;">Restart</button>
 
   <script src="game.js"></script>
 </body>
